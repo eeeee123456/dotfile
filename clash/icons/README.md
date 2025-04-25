@@ -1,0 +1,1 @@
+用于mihomo配置文件中proxy groups的icon参数
